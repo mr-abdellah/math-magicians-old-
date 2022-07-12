@@ -31,7 +31,8 @@ To get a local copy up and running follow these simple example steps.
 - open a terminal
 - run ``` git clone git@github.com:mr-abdellah/math-magicians.git```
 - run ``` cd math-magicians```
-- open index.html from dist folder
+- then run ``` npm install```
+- then run ``` npm start```
 
 ## Authors
 
