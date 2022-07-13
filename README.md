@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> Description the project.
+> This is a React, Css based web application for calculator.
 
 
 ## Built With

@@ -39,7 +39,7 @@ class Calculator extends Component {
         <button className="btn" type="submit" onClick={this.handleClick}>7</button>
         <button className="btn" type="submit" onClick={this.handleClick}>8</button>
         <button className="btn" type="submit" onClick={this.handleClick}>9</button>
-        <button className="btn" id="orange" type="submit" onClick={this.handleClick}>X</button>
+        <button className="btn" id="orange" type="submit" onClick={this.handleClick}>x</button>
         <button className="btn" type="submit" onClick={this.handleClick}>4</button>
         <button className="btn" type="submit" onClick={this.handleClick}>5</button>
         <button className="btn" type="submit" onClick={this.handleClick}>6</button>
