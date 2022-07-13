@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> Description the project.
+> This is a React, Css based web application for calculator.
 
 
 ## Built With
@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mr-abdellah.github.io/math-magicians/)
 
 
 ## Getting Started
