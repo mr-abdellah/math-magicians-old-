@@ -14,14 +14,14 @@ class Calculator extends Component {
     this.handleInputChange = this.handleInputChange.bind(this);
   }
 
-  handleInputChange(event) {
+  handleInputChange(e) {
     this.setState({
-      next: event.target.value,
+      next: e.target.value,
     });
   }
 
-  handleClick(event) {
-    const target = event.target.innerHTML;
+  handleClick(e) {
+    const target = e.target.innerHTML;
     const calculation = calculate(this.state, target);
 
     this.setState(calculation);
